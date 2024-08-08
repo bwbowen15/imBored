@@ -19,4 +19,4 @@ function remove(){
 }
 
 
-let ideas = new Array('Take a walk', 'Make some art', 'Watch a movie', 'Read a book', 'Cook some food', 'play a board game');
+let ideas = new Array('','Take a walk', 'Make some art', 'Watch a movie', 'Read a book', 'Cook some food', 'play a board game');
