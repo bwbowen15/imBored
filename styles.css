@@ -16,6 +16,9 @@ button{
     color: rgb(32, 31, 95);
     font-size: 50px;
 }
+button:hover{
+    filter: saturate(.25);
+}
 footer{
     position: absolute; /*keeps the footer in one spot*/
     bottom: 0;          /*puts at the bottom*/
