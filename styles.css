@@ -18,6 +18,7 @@ button{
 }
 button:hover{
     filter: saturate(.25);
+    cursor: pointer;
 }
 footer{
     position: absolute; /*keeps the footer in one spot*/
